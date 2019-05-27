@@ -3,6 +3,11 @@ Smart airconditioner controller with raspberry pi in Swift.
 
 Summer weather in Korea is hot like hell fire. That's why I decided to make smart airconditioner controller.
 
+# 부품
+Raspberry pi b+
+온도 센서 : DS18B20
+IR receiver :  TCRT5000
+IR emitter : IR333C/H0/L10
 
 # 설계
 1. IR receiver로 에어컨 리모콘 신호 받아서 분석하기 (전원, 온도 증가, 온도 감소, 제습기능)
