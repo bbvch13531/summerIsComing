@@ -28,3 +28,8 @@ Summer weather in Korea is hot like hell fire. That's why I decided to make smar
 - [RaspberryPi DS18B20 Tutorial](http://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/)  
 - [DS18B20](http://www.devicemart.co.kr/goods/view?no=1382718)  
 - [DS18B20 Datasheet](https://www.elecrow.com/download/DS18B20.pdf)
+
+
+## Devlog
+06.17. Infrared emitter 잘못 주문해서 다시 삼.
+06.19. 점프케이블 잘못 주문함. 암-수 케이블을 사야하는데 수-수 케이블을 사서 연결을 못함.
